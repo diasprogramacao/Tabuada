@@ -8,7 +8,7 @@ Declarei o atributo numeroTabuada como privado e criei o setNumeroTabuada para p
 
 
 
-A classe CriarTabuada criei o objeto chamado primeira e através disso usei os dois métodos gerarTabuada e gerarTabuadaCompleto para criar uma tabuada indivial do número 2 e a completa.
+A classe CriarTabuada criei o objeto chamado primeira e através disso usei os dois métodos gerarTabuada e gerarTabuadaCompleto para criar uma tabuada individual do número 2 e a completa.
 
 
 
