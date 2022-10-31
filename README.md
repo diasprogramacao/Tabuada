@@ -1,6 +1,7 @@
 Dentro da classe Tabuada foram criados dois métodos, sendo eles : 
 
 gerarTabuada : O método vai gerar a tabuada do número definido no atributo numeroTabuada do Objeto Tabuada. 
+
 gerarTabuadaCompleta : O método sempre vai gerar a tabuada completa. 
 
 Declarei o atributo numeroTabuada como privado e criei o setNumeroTabuada para patricar o conceito de encapisulamento que é uma boa prática da programação.
